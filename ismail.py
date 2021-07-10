@@ -2,7 +2,7 @@
 
 import json
 
-f=open('myfile.json',)
+f=open('ismail.json',)
 data=json.load(f)
 f.close()
 
